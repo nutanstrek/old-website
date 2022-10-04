@@ -10,7 +10,7 @@ layout: default
 
 I am currently a Senior undergrad @ IIT Delhi, India. My main interests lie in the field of Cosmology, Astronomy and Numerical Simulations.
 
-My CV can be found [here](https://drive.google.com/file/d/1-9S1tqrEEZ9_Vf4jrk3zihSxKgpZpaBw/view?usp=sharing).
+My CV can be found [here](https://nutanstrek.github.io/media/CV.pdf).
 
 ## Research
 
