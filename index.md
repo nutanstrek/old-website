@@ -1,7 +1,7 @@
 ---
 title: "Paras Sharma"
 permalink: /
-layout: default
+layout: splash
 ---
 
 # Hi, I'm Paras Sharma!
