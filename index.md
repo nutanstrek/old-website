@@ -6,10 +6,6 @@ layout: default
 
 ## Hi, I'm Paras Sharma!
 
-![alt](/media/paras.jpg)
-
-I am currently a Senior undergrad @ IIT Delhi, India. My main interests lie in the field of Cosmology, Astronomy and Numerical Simulations.
-
 My CV can be found [here](https://nutanstrek.github.io/media/CV.pdf).
 
 ## Research
