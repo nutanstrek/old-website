@@ -6,8 +6,6 @@ layout: custom
 
 ## Hi, I'm Paras Sharma
 
-My CV can be found [here](https://nutanstrek.github.io/assets/docs/CV.pdf).
-
 ## Research
 
 ### I am currently working on the following projects
