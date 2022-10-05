@@ -3,6 +3,6 @@ logo: /assets/img/paras.jpg
 logo_circle: true
 #description: I am currently a Senior undergrad @ IIT Delhi, India. My main interests lie in the field of Cosmology, Astronomy and Numerical Simulations.
 theme: jekyll-theme-minimal
-favicon: assets/img/telescope.png
+favicon: assets/img/astronomy.png
 cv: /assets/docs/CV.pdf
 description: "Senior Undergrad @ IIT Delhi, India"
