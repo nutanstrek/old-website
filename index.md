@@ -1,16 +1,16 @@
 ---
 title: "Paras Sharma"
 permalink: /
-layout: default
+layout: custom
 ---
 
-## Hi, I'm Paras Sharma!
+## Hi, I'm Paras Sharma
 
-My CV can be found [here](https://nutanstrek.github.io/media/CV.pdf).
+My CV can be found [here](https://nutanstrek.github.io/assets/docs/CV.pdf).
 
 ## Research
 
-### I am currently working on the following projects:
+### I am currently working on the following projects
 
 - Estimating the Galactic Magnetic Field using MgII absorbers and background Quasars.
 
