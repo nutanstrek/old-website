@@ -23,14 +23,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         
-        <br>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <br>
+        <p style="padding: 1em 0 1em 0">{{ site.description | default: site.github.project_tagline }}</p>
 
         <!-- Social Media Links -->
         {% if site.github.is_user_page %}
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <a href="mailto:sharmaparasiitd@gmail.com" class="fa fa-envelope"></a>
+        <a href="mailto:sharmaparasiitd@gmail.com" class="fa fa-envelope" title="sharmaparasiitd@gmail.com"></a>
         <a href="{{ site.github.owner_url }}" class = "fa fa-github"></a>
         <a href="https://www.instagram.com/time_dilates_me/" class="fa fa-instagram"></a>
         <a href="https://twitter.com/time_dilates_me" class="fa fa-twitter"></a>
