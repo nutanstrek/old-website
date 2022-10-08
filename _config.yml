@@ -5,7 +5,7 @@ logo_circle: true
 theme: jekyll-theme-minimal
 favicon: assets/img/astronomy.png
 cv: /assets/docs/CV.pdf
-description: "Senior Undergrad @ IIT Delhi, India"
+description: Senior Undergrad @ IIT Delhi, India
 
 
 plugins:
