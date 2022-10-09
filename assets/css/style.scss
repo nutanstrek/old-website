@@ -16,6 +16,14 @@
     opacity: 0.7;
 }
 
+body {
+    background-color: #fff;
+    padding: 0;
+    font: 14px/1.5"Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #727272;
+    font-weight: 400;
+}
+
 .social_links {
     display: block;
     margin-left: auto;
@@ -39,6 +47,7 @@
 .fixed-nav-bar {
     text-align: center;
     align-content: center;
+    margin-bottom: 50px;
 }
 
 .fixed-nav-bar a{
