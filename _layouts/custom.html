@@ -15,10 +15,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <!-- <nav class="fixed-nav-bar">
-      <!-- Fixed navigation bar content -->
-    </nav> -->
-
     <div class="wrapper">
       <header>
         <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
@@ -53,6 +49,17 @@
         {% if site.cv %}
         <p style="padding: 1em 0 0.5em 0; margin: auto; text-align: center;">My CV can be found <a href = "{{site.cv | relative_url}}">here</a></p>
         {% endif %}
+
+        <!-- Navigation -->
+        <nav class="fixed-nav-bar">
+          <ul>
+            <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+            <li><a href="{{ "/about/" | absolute_url }}">About</a></li>
+            <li><a href="{{ "/projects/" | absolute_url }}">Projects</a></li>
+            <li><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+            <li><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
+          </ul>
+        </nav>
 
       </header>
       <section>
