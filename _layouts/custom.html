@@ -46,18 +46,19 @@
         </div>
         {% endif %}
 
-        {% if site.cv %}
+        <!-- {% if site.cv %}
         <p style="padding: 1em 0 0.5em 0; margin: auto; text-align: center;">My CV can be found <a href = "{{site.cv | relative_url}}">here</a></p>
-        {% endif %}
+        {% endif %} -->
+        
+        <hr>
 
         <!-- Navigation -->
         <nav class="fixed-nav-bar">
-          <ul>
-            <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-            <li><a href="{{ "/about/" | absolute_url }}">About</a></li>
-            <li><a href="{{ "/projects/" | absolute_url }}">Projects</a></li>
-            <li><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-            <li><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
+          <ul style="list-style: none; padding-left: 0;">
+            <li class = "fixed-nav-bar-li"><a href="{{ "/" | absolute_url }}">Home</a></li>
+            <li class = "fixed-nav-bar-li"><a href="{{ site.cv | absolute_url }}">CV</a></li>
+            <li class = "fixed-nav-bar-li"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+            <li class = "fixed-nav-bar-li"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
           </ul>
         </nav>
 
