@@ -53,14 +53,12 @@
         <hr>
 
         <!-- Navigation -->
-        <nav class="fixed-nav-bar">
-          <ul style="list-style: none; padding-left: 0;">
-            <li class = "fixed-nav-bar-li"><a href="{{ "/" | absolute_url }}">Home</a></li>
-            <li class = "fixed-nav-bar-li"><a href="{{ site.cv | absolute_url }}">CV</a></li>
-            <li class = "fixed-nav-bar-li"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-            <li class = "fixed-nav-bar-li"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
-          </ul>
-        </nav>
+        <div class="fixed-nav-bar">
+            <a class = "fixed-nav-bar a"><a href="{{ "/" | absolute_url }}">Home</a>
+            <a class = "fixed-nav-bar a"><a href="{{ site.cv | absolute_url }}">CV</a>
+            <a class = "fixed-nav-bar a"><a href="{{ "/blog/" | absolute_url }}">Blog</a>
+            <a class = "fixed-nav-bar a"><a href="{{ "/contact/" | absolute_url }}">Contact</a>
+        </div>
 
       </header>
       <section>
